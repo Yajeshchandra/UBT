@@ -159,3 +159,6 @@ We provide attention heatmaps showing which regions of each modality the model f
   <img src="heatmaps/forehead_heatmap_3.png" width="250" alt="Forehead Attention"/>
 </div>
 
+
+by team 17
+
